@@ -1,3 +1,9 @@
+autobright (1.0.1-1) focal; urgency=medium
+
+  * upstream version 1.0.1
+
+ -- Fra Bot <fragoibot@gmail.com>  Sat, 10 Jan 2026 16:48:15 +0000
+
 autobright (1.0.0-1) focal; urgency=medium
 
   * upstream version 1.0.0
